@@ -1,6 +1,6 @@
 {
   "name": "@sahilsharma2408/lerna-git-hosted-testing",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "main": "index.js",
   "author": "Sahil Sharma <sahil@sendinblue.com>",
   "license": "MIT",
